@@ -8,15 +8,19 @@
 <a href="https://www.linkedin.com/in/vedant-mhatre/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+<!--
 <a href="https://twitter.com/VedantMhatre19">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:vedantmh@gmail.com">
+-->
+<a href="mailto:vatsalsmehta@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<!--
 <a href="https://www.instagram.com/vedant_mhatre_/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
 </a>
+-->
 <a href="https://medium.com/@vedantmh">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -27,17 +31,17 @@
 
 ### About Me 🚀
 
-- 🎓 Cloud Intern at [Sapio Analytics](https://sapioanalytics.com/) & a junior pursuing my Bachelors in Computer Science & Engineering
+- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies](www.skillingyou.com) 
 
-- 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
+- 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World.
 
-- 🔭 Currently working on [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
+- 🔭 I am a Dell EMC Certified Data Science and Big Data Associate.Passionate about Deep Learning, Cloud Computing with a strong base of Data Structures and implementation of APIs and have a track record of maintaining consistent performance levels and achieving the desired targets through relentless hard work and dedication.
 
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vatsalsmehta)
 <!--
 - 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
 -->
-- 📫 Reach me at **vedant@computer.org**
+- 📫 Connect with me over [Linkedin](https://www.linkedin.com/in/vatsalsmehta/)
 
 
 <!--
