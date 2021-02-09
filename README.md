@@ -18,7 +18,7 @@
 
 ### About Me 🚀
 
-- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies](www.skillingyou.com). Former Machine Learning Intern at [Society of AI](https://www.societyofai.in/) 
+- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies Pvt Ltd](www.skillingyou.com). Former Machine Learning Intern at [Society of AI](https://www.societyofai.in/) 
 
 - 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World.
 
