@@ -10,7 +10,6 @@
 <a href="mailto:vatsalsmehta@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<!--
 
 <br><br>
 <div>
@@ -19,12 +18,15 @@
 
 ### About Me 🚀
 
-- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies](www.skillingyou.com). Former Data Science Intern at [Society of AI](https://www.societyofai.in/).
+- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies](www.skillingyou.com). Former Machine Learning Intern at [Society of AI](https://www.societyofai.in/) 
 
 - 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World.
 
 - 🔭 I am a Dell EMC Certified Data Science and Big Data Associate.Passionate about Deep Learning, Cloud Computing with a strong base of Data Structures and implementation of APIs and have a track record of maintaining consistent performance levels and achieving the desired targets through relentless hard work and dedication.
 
+<!--
+- 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
+-->
 - 📫 Connect with me over [Linkedin](https://www.linkedin.com/in/vatsalsmehta/)
 
 
