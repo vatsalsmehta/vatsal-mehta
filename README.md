@@ -1,24 +1,17 @@
 # vatsal-mehta
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vatsal](https://www.linkedin.com/in/vatsalsmehta/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vatsal Mehta](https://www.linkedin.com/in/vatsalsmehta/) 
 
 <a href="https://www.linkedin.com/in/vatsalsmehta/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<!--
-<a href="https://twitter.com/VedantMhatre19">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
--->
+
 <a href="mailto:vatsalsmehta@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <!--
-<a href="https://www.instagram.com/vedant_mhatre_/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
-</a>
--->
+
 <br><br>
 <div>
   
@@ -26,15 +19,12 @@
 
 ### About Me 🚀
 
-- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies](www.skillingyou.com) 
+- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies](www.skillingyou.com). Former Data Science Intern at [Society of AI](https://www.societyofai.in/).
 
 - 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World.
 
 - 🔭 I am a Dell EMC Certified Data Science and Big Data Associate.Passionate about Deep Learning, Cloud Computing with a strong base of Data Structures and implementation of APIs and have a track record of maintaining consistent performance levels and achieving the desired targets through relentless hard work and dedication.
 
-<!--
-- 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
--->
 - 📫 Connect with me over [Linkedin](https://www.linkedin.com/in/vatsalsmehta/)
 
 
