@@ -1,11 +1,9 @@
 # vatsal-mehta
 
-<!-- <h1 align="center">Hi there 👋</h1> -->
-<!-- <h3 align="center">Dynamic leader and Cloud engineer with AWS in my heart and python in my mind, Chairperson of @IEEE-APSIT</h3> -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vatsal](https://www.linkedin.com/in/vedant-mhatre/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vatsal](https://www.linkedin.com/in/vatsalsmehta/) 
 
-<a href="https://www.linkedin.com/in/vedant-mhatre/">
+<a href="https://www.linkedin.com/in/vatsalsmehta/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <!--
@@ -27,7 +25,7 @@
 <br><br>
 <div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalsmehta" alt="vatsalsmehta" /> </p>
 
 ### About Me 🚀
 
@@ -37,7 +35,6 @@
 
 - 🔭 I am a Dell EMC Certified Data Science and Big Data Associate.Passionate about Deep Learning, Cloud Computing with a strong base of Data Structures and implementation of APIs and have a track record of maintaining consistent performance levels and achieving the desired targets through relentless hard work and dedication.
 
-- 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vatsalsmehta)
 <!--
 - 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
 -->
