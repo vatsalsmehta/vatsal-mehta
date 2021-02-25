@@ -18,6 +18,8 @@
 
 ### About Me 🚀
 
+- 🎓💻 Currently a Cloud Engineer at NDS Global an MNC that is Microsoft Gold Partner for Azure Solutions [NDS Global](www.ndsglobal.com). I work primarily on deployment of Azure solutions primarily involving use of various Azure services with 
+
 - 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies Pvt Ltd](www.skillingyou.com). Former Machine Learning Intern at [Society of AI](https://www.societyofai.in/) 
 
 - 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World.
