@@ -18,7 +18,7 @@
 
 ### About Me 🚀
 
-- 🎓💻 Currently a Cloud Engineer at [NDS Global](www.ndsglobal.com) an MNC that is Microsoft Gold Partner for Azure Solutions . I work primarily on deployment of Azure solutions primarily involving use of various Azure services with nodejs,expressjs,databases(mern stack),C# for deployment.
+- 🎓💻 Currently a Software Developer at [Merkle Sokrati](https://www.linkedin.com/company/merkle-sokrati/) an MNC that is Microsoft Gold Partner for Azure Solutions . I work primarily on deployment of Azure solutions primarily involving use of various Azure services with nodejs,expressjs,databases(mern stack),C# for deployment.
 
 - 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies Pvt Ltd](www.skillingyou.com). Former Machine Learning Intern at [Society of AI](https://www.societyofai.in/) 
 
