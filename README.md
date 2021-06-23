@@ -18,9 +18,9 @@
 
 ### About Me 🚀
 
-- 🎓💻 Currently a Software Developer at [Merkle Sokrati](https://www.linkedin.com/company/merkle-sokrati/) an MNC that is Microsoft Gold Partner for Azure Solutions . I work primarily on deployment of Azure solutions primarily involving use of various Azure services with nodejs,expressjs,databases(mern stack),C# for deployment.
+- 🎓💻 Currently a Software Developer at [Merkle Sokrati](https://www.linkedin.com/company/merkle-sokrati/) India's Second largest Data Analytics and Advertising Company. I work on Backend development consisting of Node.js, Python, Aws deployments ,NoSql Databases.
 
-- 🎓 Former Cloud and Data Science Engineer at [SkillingYou EdTechnologies Pvt Ltd](www.skillingyou.com). Former Machine Learning Intern at [Society of AI](https://www.societyofai.in/) 
+- 🎓 Former Software Developer Intern at [NDS Global](http://www.ndsglobal.com/) an American MNC that is microsoft gold partner for Azure solutions, my work involved on leveraging the power of Javascript frameworks along with Azure for development as well as deployment. 
 
 - 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World.
 
