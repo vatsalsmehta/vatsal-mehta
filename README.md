@@ -22,9 +22,9 @@
 
 - 🎓 Former Software Developer Intern at [NDS Global](http://www.ndsglobal.com/) an American MNC that is microsoft gold partner for Azure solutions, my work involved on leveraging the power of Javascript frameworks along with Azure for development as well as deployment. 
 
-- 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World.
+- 👨‍💻  A 20-year-old Software Enthusiast with experience of more than 1.5 years in the Corporate World in writing Production ready codes and deploying them, I manage to overcome everyone's expectations through relentless hardwork and dedication.
 
-- 🔭 I am a Dell EMC Certified Data Science and Big Data Associate.Passionate about Deep Learning, Cloud Computing with a strong base of Data Structures and implementation of APIs and have a track record of maintaining consistent performance levels and achieving the desired targets through relentless hard work and dedication.
+- 🔭 Passionate about Software Development, Cloud Computing with a strong base of Data Structures, implementation of APIs and have a track record of maintaining consistent performance levels and achieving the desired targets.
 
 <!--
 - 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
