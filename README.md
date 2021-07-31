@@ -18,7 +18,7 @@
 
 ### About Me 🚀
 
-- 🎓💻 Currently a Software Developer at [Merkle Sokrati](https://www.linkedin.com/company/merkle-sokrati/) India's Second largest Data Analytics and Advertising Company. I work on Backend development consisting of Node.js, Python, Aws deployments ,NoSql Databases.
+- 🎓💻 Currently a Software Developer at [Merkle Sokrati](https://www.linkedin.com/company/merkle-sokrati/) India's Second largest Data Analytics and Advertising Company. I work on Backend development consisting of Python, Node.js, Sql in Aws and Gcp environments.
 
 - 🎓 Former Software Developer Intern at [NDS Global](http://www.ndsglobal.com/) an American MNC that is microsoft gold partner for Azure solutions, my work involved on leveraging the power of Javascript frameworks along with Azure for development as well as deployment. 
 
