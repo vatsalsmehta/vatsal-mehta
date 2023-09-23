@@ -1,7 +1,7 @@
 # vatsal-mehta
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vatsal Mehta](https://www.linkedin.com/in/vatsalsmehta/) 
+## Hey I'm [Vatsal Mehta](https://www.linkedin.com/in/vatsalsmehta/) 
 
 <a href="https://www.linkedin.com/in/vatsalsmehta/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -18,11 +18,11 @@
 
 ### About Me 🚀
 
-- 🎓💻 Currently a Software Engineer at [Udaan](https://www.linkedin.com/company/udaan/) India's biggest Unicorn in B2B Ecommerce. I work on backend development, microservices
+- 🎓💻 Currently a Senior Software Engineer at [Udaan](https://www.linkedin.com/company/udaan/) India's biggest Unicorn in B2B Ecommerce. I work on backend development, microservices
 
 - 🎓💻 Previously Associate SDE at [Merkle Sokrati](https://www.linkedin.com/company/merkle-sokrati/) India's Second largest Data Analytics and Advertising Company. I work on Backend development consisting of Python, Node.js, Sql in Aws and Gcp environments.
 
-- 👨‍💻  Software Enthusiast with experience of more than 2 years in the Corporate World in writing Production ready codes and deploying them, I manage to overcome everyone's expectations through relentless hardwork and dedication.
+- 👨‍💻  Software Enthusiast with experience of more than 2.5 years in the Corporate World in writing Production ready codes and deploying them, I manage to overcome everyone's expectations through relentless hardwork and dedication.
 
 - 🔭 Passionate about Software Development, Cloud Computing with a strong base of Data Structures, implementation of APIs and have a track record of maintaining consistent performance levels and achieving the desired targets.
 
